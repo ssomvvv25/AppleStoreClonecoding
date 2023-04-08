@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    background-color: #F5F5f5;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.main-container{
+    display: grid;
+    grid-template-rows: 40px 80px 700px 800px;
+}
+.fst{
+    margin-top: 20px;
+    text-align: center;
+    word-spacing:35px;
+     
+}
+
+.sec{
+    padding: 18px;
+    margin-top: 20px;
+    background-color: white;
+    font-size: 15px;
+    
+    
+}
+.thrd{
+    top: 20;
+    margin-top: 60px;
+    margin-left: 200px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.fourth{
+    margin-top: 80px;
+    margin-left: 70px;
+    word-spacing:35px;
+    text-align: center;
+
+}
+.fourth_1{
+    margin-top: 30px;
+    margin-left: 300px;
+    
+}
+.fifth{
+    margin-top: 5%;
+    margin-left: 200px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.sixth{
+    margin-top: 30px;
+    margin-left: 200px;
+    position:relative;
+}
+.main_image_text{
+    background-color: white;
+    font-size:15px; 
+    color:lightgray;
+    position: absolute;
+    top: 10%;
+    left: 3%;
+}
+.main_image_text_2{
+    background-color: white;
+    position: absolute;
+    font-size:15px;
+    font-weight: bold;
+    color:black;
+    top: 20%;
+    left: 3%;
+}
+.main_image_text_3{
+    background-color: white;
+    font-size:15px; 
+    position: absolute;
+    top: 30%;
+    left: 3%;
+    
+}
+.main_image2_text{
+    background-color: white;
+    font-size:15px; 
+    color:lightgray;
+    position: absolute;
+    top: 10%;
+    left: 32%;
+}
+.main_image2_text_2{
+    background-color: white;
+    position: absolute;
+    font-size:15px;
+    font-weight: bold;
+    color:black;
+    top: 20%;
+    left: 32%;
+}
+.main_image2_text_3{
+    background-color: white;
+    font-size:15px; 
+    position: absolute;
+    top: 30%;
+    left: 32%;
+    
+}
+.main_image3_text{
+    background-color: black;
+    font-size:15px; 
+    color:white;
+    position: absolute;
+    top: 10%;
+    left: 62%;
+}
+.main_image3_text_2{
+    background-color:black;
+    position: absolute;
+    font-size:15px;
+    font-weight: bold;
+    color:white;
+    top: 20%;
+    left: 62%;
+}
+.main_image3_text_3{
+    background-color:black;
+    font-size:15px; 
+    position: absolute;
+    color:white;
+    top: 30%;
+    left: 62%;
+    
+}
+
+
+
+
+
