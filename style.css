@@ -1,13 +1,12 @@
 *{
     margin: 0;
     background-color: #F5F5f5;
-    
+   
 }
 
 body{
     margin: 0;
     padding: 0;
-
 }
 .main-container{
     display: grid;
@@ -16,17 +15,14 @@ body{
 .fst{
     margin-top: 20px;
     text-align: center;
-    word-spacing:35px;
-     
+    word-spacing:35px;   
 }
 
 .sec{
     padding: 18px;
     margin-top: 20px;
     background-color: white;
-    font-size: 15px;
-    
-    
+    font-size: 15px;  
 }
 .thrd{
     top: 20;
@@ -44,7 +40,7 @@ body{
 }
 .fourth_1{
     margin-top: 30px;
-    margin-left: 300px;
+    margin-left: 285px;
     
 }
 .fifth{
@@ -61,7 +57,7 @@ body{
 .main_image_text{
     background-color: white;
     font-size:15px; 
-    color:lightgray;
+    color:rgb(122, 121, 121);
     position: absolute;
     top: 10%;
     left: 3%;
@@ -69,19 +65,18 @@ body{
 .main_image_text_2{
     background-color: white;
     position: absolute;
-    font-size:15px;
+    font-size:20px;
     font-weight: bold;
     color:black;
-    top: 20%;
+    top: 18%;
     left: 3%;
 }
 .main_image_text_3{
     background-color: white;
     font-size:15px; 
     position: absolute;
-    top: 30%;
+    top: 33%;
     left: 3%;
-    
 }
 .main_image2_text{
     background-color: white;
@@ -89,24 +84,23 @@ body{
     color:lightgray;
     position: absolute;
     top: 10%;
-    left: 32%;
+    left: 35%;
 }
 .main_image2_text_2{
     background-color: white;
     position: absolute;
-    font-size:15px;
+    font-size:18px;
     font-weight: bold;
     color:black;
-    top: 20%;
-    left: 32%;
+    top: 18%;
+    left: 35%;
 }
 .main_image2_text_3{
     background-color: white;
     font-size:15px; 
     position: absolute;
-    top: 30%;
-    left: 32%;
-    
+    top: 31%;
+    left: 35%;  
 }
 .main_image3_text{
     background-color: black;
@@ -114,25 +108,24 @@ body{
     color:white;
     position: absolute;
     top: 10%;
-    left: 62%;
+    left: 67%;
 }
 .main_image3_text_2{
     background-color:black;
     position: absolute;
-    font-size:15px;
+    font-size:18px;
     font-weight: bold;
     color:white;
-    top: 20%;
-    left: 62%;
+    top: 18%;
+    left: 67%;
 }
 .main_image3_text_3{
     background-color:black;
     font-size:15px; 
     position: absolute;
     color:white;
-    top: 30%;
-    left: 62%;
-    
+    top: 26%;
+    left: 67%;  
 }
 
 
